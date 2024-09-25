@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../resto"
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#000",
+      "statusBar.background": "#333333",
+      "statusBar.foreground": "#fff"
+    }
+  }
+}
